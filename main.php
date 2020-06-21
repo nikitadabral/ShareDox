@@ -37,7 +37,7 @@
       <p class="lead">This is ShareDox , a simple document collabration website to edit your articles,reports .,etc together with the team.</p>
       <hr class="my-4">
       <p>It has a public repository and you are free to collabrate.</p>
-      <a class="btn btn-primary btn-lg" href="#" role="button">Github Repo</a>
+      <a class="btn btn-primary btn-lg" href="https://github.com/nikitadabral/ShareDox" role="button">Github Repo</a>
     </div>
     
     <div id="document_list" >
