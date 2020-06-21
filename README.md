@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/nikitadabral/ShareDox/master/ShareDoxLOGO.jpg)
+![Logo](https://raw.githubusercontent.com/nikitadabral/ShareDox/master/ShareDoxLOGO.jpg | width=100)
 # ShareDox
 A simple document collabration website to edit your articles,reports .,etc together with the team.
 
