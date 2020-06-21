@@ -12,14 +12,16 @@ A simple document collabration website to edit your articles,reports .,etc toget
 
 # Scheme Info
 ```mysql
-//username: root
-//password:''
+username: root
+password:''
 
-//create db
+create db
 create database user;
 
-//create table
-create table user_info(id int(11) PRIMARY KEY AUTO_INCREMENT,firstname varchar(255),lastname varchar(255),email varchar(255),password varchar(255),is_active_doc1 text default 'off',is_active_doc2 text default 'off');
+create table
+create table user_info(id int(11) PRIMARY KEY AUTO_INCREMENT,
+firstname varchar(255),lastname varchar(255),email varchar(255),
+password varchar(255),is_active_doc1 text default 'off',is_active_doc2 text default 'off');
 ```
 
 Hosted on - [Website Link](https://www.google.com)
