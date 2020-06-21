@@ -1,4 +1,5 @@
 # ShareDox
+![Logo](https://raw.githubusercontent.com/nikitadabral/ShareDox/master/ShareDoxLOGO.jpg)
 A simple document collabration website to edit your articles,reports .,etc together with the team.
 
 # Features
