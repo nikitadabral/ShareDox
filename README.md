@@ -1,5 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/nikitadabral/ShareDox/master/ShareDoxLOGO.jpg )
 <img src=https://raw.githubusercontent.com/nikitadabral/ShareDox/master/ShareDoxLOGO.jpg" width="300" />
+                                                                                                     
 # ShareDox
 A simple document collabration website to edit your articles,reports .,etc together with the team.
 
