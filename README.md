@@ -11,6 +11,10 @@ A simple document collabration website to edit your articles,reports .,etc toget
 5. Information on users currently viewing the document
 6. People who viewed the document in past
 
+# Application Flow Diagram
+![Application Flow Diag](https://raw.githubusercontent.com/nikitadabral/ShareDox/master/ApplicationFlowDiag.png)
+ 
+
 # Scheme Info
 ```mysql
 username: root
